@@ -1,7 +1,7 @@
 (function(){
   'use strict';
 
-  const WHATSAPP_NUMBER = '5491144262610';
+  const WHATSAPP_NUMBER = '5491155847511';
 
   /* Navbar toggle */
   const navToggle = document.getElementById('navToggle');
