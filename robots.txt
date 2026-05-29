@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tuweben3dias.github.io/demo-la-cueva-del-wayra/sitemap.xml
