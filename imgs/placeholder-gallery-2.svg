@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+  <defs>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2E5A6B"/>
+      <stop offset="50%" style="stop-color:#5C3A21"/>
+      <stop offset="100%" style="stop-color:#3D2B1F"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="400" fill="url(#g2)"/>
+  <text x="300" y="180" text-anchor="middle" font-size="80" font-family="Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, sans-serif">🍔</text>
+  <text x="300" y="260" text-anchor="middle" font-size="24" font-family="Georgia, serif" fill="#F2EDE4" font-style="italic">Comida de bar</text>
+  <text x="300" y="300" text-anchor="middle" font-size="14" font-family="sans-serif" fill="rgba(242,237,228,0.5)">Hamburguesas, pizzas, empanadas</text>
+</svg>
