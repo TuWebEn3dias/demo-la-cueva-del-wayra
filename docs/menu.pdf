@@ -1,0 +1,76 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792]
+   /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+
+4 0 obj
+<< /Length 234 >>
+stream
+BT
+/F1 28 Tf
+50 700 Td
+(Menu - La Cueva del Wayra) Tj
+/F1 14 Tf
+50 650 Td
+(Cerveza artesanal, musica y el rio de fondo.) Tj
+/F1 12 Tf
+50 600 Td
+(--- CERVEZAS ---) Tj
+/F1 12 Tf
+50 570 Td
+(IPA - 00) Tj
+/F1 12 Tf
+50 545 Td
+(Honey - 50) Tj
+/F1 12 Tf
+50 520 Td
+(Stout - 00) Tj
+/F1 12 Tf
+50 495 Td
+(Estacional - Consultar) Tj
+/F1 12 Tf
+50 450 Td
+(--- COMIDA ---) Tj
+/F1 12 Tf
+50 420 Td
+(Hamburguesas - 00) Tj
+/F1 12 Tf
+50 395 Td
+(Empanadas (x6) - 00) Tj
+/F1 12 Tf
+50 370 Td
+(Pizzas - 00) Tj
+/F1 12 Tf
+50 345 Td
+(Ensaladas - 00) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000266 00000 n 
+0000000552 00000 n 
+
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+609
+%%EOF
